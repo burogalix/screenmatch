@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="089608f6-e651-4348-8a33-84a207326dfe" name="Changes" comment="Declarando instancia do objeto filme">
+    <list default="true" id="089608f6-e651-4348-8a33-84a207326dfe" name="Changes" comment="metodo exibefichatecnica">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Filme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
@@ -84,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716228168085</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="metodo exibefichatecnica">
+      <option name="closed" value="true" />
+      <created>1716231469645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716231469645</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio do Projeto" />
     <MESSAGE value="Declarando instancia do objeto filme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Declarando instancia do objeto filme" />
+    <MESSAGE value="metodo exibefichatecnica" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodo exibefichatecnica" />
   </component>
 </project>
