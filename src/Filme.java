@@ -2,7 +2,7 @@ public class Filme {
     String nome;
     int anoDeLancamento;
     boolean incluidoNoPlano;
-    double avalicacao;
+    double avaliacao;
     int totalDeAvaliacoes;
     int duracaoEmMinutos;
 
